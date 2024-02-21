@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(259,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(270,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(475,8): warning C4101: 'buffer': unreferenced local variable
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(507,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(689,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(714,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(723,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(1754,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\of\FileName.cpp(1773,14): warning C4305: 'argument': truncation from 'double' to 'float'
+  of.vcxproj -> C:\Users\Alexandra\source\repos\[Proiect][1051][Baicu Alexandra]-[Faza 2]\x64\Debug\of.exe

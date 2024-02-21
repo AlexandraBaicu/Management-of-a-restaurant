@@ -1,0 +1,37 @@
+17
+Sos-rosii 2000 10 
+Salam 1000 20
+Blat-pizza 2000 20 
+Masline 200 20
+Paste 200 20 
+Ton 2000 40 
+Branza 2000 15 
+Ceapa 2000 20 
+Ulei-de-masline 2000 10
+Salata-verde 1500 5
+Piscoturi 1000 30
+Cafea 2000 40
+Mascarpone 1500 10
+Cacao 1000 60
+Biscuiti 5000 30
+Branza-de-vaci 3000 40
+Zahar 0 40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
